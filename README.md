@@ -1,6 +1,8 @@
 # Estimativa da Turbidez da Água por Meio do Processamento Digital de Imagens
 
 Este repositório contém os arquivos relacionados à pesquisa realizada no âmbito de um Trabalho de Conclusão de Curso (TCC) de pós-graduação, com o objetivo de estimar a turbidez da água por meio do processamento digital de imagens.
+![Amostra imagens](turbidy.png)
+
 
 ## Descrição do Projeto
 
@@ -17,6 +19,9 @@ A turbidez da água é um parâmetro crítico em diversas aplicações, como mon
 ## Preparação de Amostras de Água e Montagem do Aparato Experimental
 
 O processo de preparação das amostras de água e a montagem do aparato experimental são descritos em detalhes na documentação fornecida neste repositório.
+
+![Montagem do Aparato Experimental](datasets/estrutura.PNG)
+
 
 ## Resultados e Discussão
 
